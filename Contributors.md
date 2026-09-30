@@ -6505,3 +6505,4 @@ Jd
 - [Gurmeetsingh](https://github.com/GurmeetsinghRelusinghani28)
 - [monkli7](https://github.com/monkli7) - # hey github
 -[ayushmaansingh]-very happy to practice contributions
+- [Tizian G.](https://github.com/Tizian-94) - First open-source contribution
