@@ -1,3 +1,4 @@
+- [Sandeep K G] (https://github.com/Sandeepkg123) - hello everyone 
 - [swami] (https://github.com/swamisonna006-prog) - hello everyone
 - [Ronak Das](https://github.com/Ron2412) - My First Contribution to Open Source
 - [Uday Pratap Singh](https://github.com/Uday-6145) - Hello Everyone
@@ -9,6 +10,7 @@
 - [Anvita Rayapati](https://github.com/anvita-09) - First contri of 2026!
 - [Alexandre Cruz <img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" width="22">](https://github.com/alexandrescruz) - My first open-source contribution
 -[GauravPathak09](https://github.com/GauravPathak09)
+-[Kunal](https://github.com/111kunal)
 - [Satya Mahesh](https://github.com/satyamahesh03) - First Open Source Contribution!
 - [Md Mizan](https://github.com/mizan989)
 - [Lukas0808988](https://github.com/Lukas0808988)
@@ -64,7 +66,9 @@ B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
 - [Varunika Shree S](https://github.com/VarunikaShreeS)
 - [Johanna Pérez]
+- [vasist chikka](https://github.com/vasist05)
 - [Ariya Katti](https://github.com/ariyakatti)
+-[Gopika Harshitha](https://github.com/Gopi-0707-eng)-First Contribution!
 - [Kanav Sharma](https://github.com/kanavsharma09)
 - [Shaurya]
 - [Pratham Joseph]
@@ -6505,4 +6509,4 @@ Jd
 - [Gurmeetsingh](https://github.com/GurmeetsinghRelusinghani28)
 - [monkli7](https://github.com/monkli7) - # hey github
 -[ayushmaansingh]-very happy to practice contributions
-- [Tizian G.](https://github.com/Tizian-94) - First open-source contribution
+- [Yashwanth](https://github.com/1nc24is062-boop) - My first open-source contribution!
